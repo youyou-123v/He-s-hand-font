@@ -27,4 +27,4 @@ OpenType Font: Hes-hand-font.otf
 Web Font: Hes-hand-font.woff
 Manual:README!!!!!.TXT
 font Preview:font Preview
-maed by: Discord @youyou_123v
+Maed by: Discord @youyou_123v
